@@ -26,7 +26,7 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 ## Debugging
 
-1. Go to the Run view and select **'Run Sample App'** or press <kbd>F5</kbd> key to launch application.
+1. Go to the Run view and select **'Run Sample App'** or press <kbd>F5</kbd> key to start debugging.
 2. Set breakpoints in any of the files.
 
 ## License
