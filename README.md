@@ -4,7 +4,7 @@
 
 This is a Deno sample application based on the [Deno Manual](https://deno.land/manual).
 
-**Use this app along with the [doc.deno.land](https://doc.deno.land/https/github.com/denoland/deno/releases/latest/download/lib.deno.d.ts) for API to help you get started.**
+**Use this app along with the [doc.deno.land](https://doc.deno.land/) for API to help you get started.**
 
 You can learn more about Deno within the [Deno Official Website](https://deno.land/).
 
