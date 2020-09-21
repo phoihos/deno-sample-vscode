@@ -1,3 +1,5 @@
+> This project is deprecated. Please use the [Visual Studio Code Deno extension](https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno)
+
 # deno-sample-vscode
 
 **Clone and run for a quick way to see Deno in action.**
